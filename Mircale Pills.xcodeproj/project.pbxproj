@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2EDC72751EBE82640002FE00 /* Mircal Pills.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mircal Pills.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2EDC72751EBE82640002FE00 /* Mircale Pills.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mircale Pills.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EDC72781EBE82640002FE00 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2EDC727A1EBE82640002FE00 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2EDC727D1EBE82640002FE00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		2EDC726C1EBE82640002FE00 = {
 			isa = PBXGroup;
 			children = (
-				2EDC72771EBE82640002FE00 /* Mircal Pills */,
+				2EDC72771EBE82640002FE00 /* Mircale Pills */,
 				2EDC72761EBE82640002FE00 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		2EDC72761EBE82640002FE00 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2EDC72751EBE82640002FE00 /* Mircal Pills.app */,
+				2EDC72751EBE82640002FE00 /* Mircale Pills.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2EDC72771EBE82640002FE00 /* Mircal Pills */ = {
+		2EDC72771EBE82640002FE00 /* Mircale Pills */ = {
 			isa = PBXGroup;
 			children = (
 				2EDC72781EBE82640002FE00 /* AppDelegate.swift */,
@@ -61,15 +61,16 @@
 				2EDC72811EBE82640002FE00 /* LaunchScreen.storyboard */,
 				2EDC72841EBE82640002FE00 /* Info.plist */,
 			);
+			name = "Mircale Pills";
 			path = "Mircal Pills";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2EDC72741EBE82640002FE00 /* Mircal Pills */ = {
+		2EDC72741EBE82640002FE00 /* Mircale Pills */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2EDC72871EBE82640002FE00 /* Build configuration list for PBXNativeTarget "Mircal Pills" */;
+			buildConfigurationList = 2EDC72871EBE82640002FE00 /* Build configuration list for PBXNativeTarget "Mircale Pills" */;
 			buildPhases = (
 				2EDC72711EBE82640002FE00 /* Sources */,
 				2EDC72721EBE82640002FE00 /* Frameworks */,
@@ -79,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = "Mircal Pills";
+			name = "Mircale Pills";
 			productName = "Mircal Pills";
-			productReference = 2EDC72751EBE82640002FE00 /* Mircal Pills.app */;
+			productReference = 2EDC72751EBE82640002FE00 /* Mircale Pills.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2EDC72701EBE82640002FE00 /* Build configuration list for PBXProject "Mircal Pills" */;
+			buildConfigurationList = 2EDC72701EBE82640002FE00 /* Build configuration list for PBXProject "Mircale Pills" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2EDC72741EBE82640002FE00 /* Mircal Pills */,
+				2EDC72741EBE82640002FE00 /* Mircale Pills */,
 			);
 		};
 /* End PBXProject section */
@@ -285,7 +286,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2EDC72701EBE82640002FE00 /* Build configuration list for PBXProject "Mircal Pills" */ = {
+		2EDC72701EBE82640002FE00 /* Build configuration list for PBXProject "Mircale Pills" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2EDC72851EBE82640002FE00 /* Debug */,
@@ -294,7 +295,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2EDC72871EBE82640002FE00 /* Build configuration list for PBXNativeTarget "Mircal Pills" */ = {
+		2EDC72871EBE82640002FE00 /* Build configuration list for PBXNativeTarget "Mircale Pills" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2EDC72881EBE82640002FE00 /* Debug */,

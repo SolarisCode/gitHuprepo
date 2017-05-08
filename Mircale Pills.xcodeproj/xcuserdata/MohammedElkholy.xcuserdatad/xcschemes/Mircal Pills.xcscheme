@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2EDC72741EBE82640002FE00"
-               BuildableName = "Mircal Pills.app"
-               BlueprintName = "Mircal Pills"
-               ReferencedContainer = "container:Mircal Pills.xcodeproj">
+               BuildableName = "Mircale Pills.app"
+               BlueprintName = "Mircale Pills"
+               ReferencedContainer = "container:Mircale Pills.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2EDC72741EBE82640002FE00"
-            BuildableName = "Mircal Pills.app"
-            BlueprintName = "Mircal Pills"
-            ReferencedContainer = "container:Mircal Pills.xcodeproj">
+            BuildableName = "Mircale Pills.app"
+            BlueprintName = "Mircale Pills"
+            ReferencedContainer = "container:Mircale Pills.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2EDC72741EBE82640002FE00"
-            BuildableName = "Mircal Pills.app"
-            BlueprintName = "Mircal Pills"
-            ReferencedContainer = "container:Mircal Pills.xcodeproj">
+            BuildableName = "Mircale Pills.app"
+            BlueprintName = "Mircale Pills"
+            ReferencedContainer = "container:Mircale Pills.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2EDC72741EBE82640002FE00"
-            BuildableName = "Mircal Pills.app"
-            BlueprintName = "Mircal Pills"
-            ReferencedContainer = "container:Mircal Pills.xcodeproj">
+            BuildableName = "Mircale Pills.app"
+            BlueprintName = "Mircale Pills"
+            ReferencedContainer = "container:Mircale Pills.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
